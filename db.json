@@ -1,0 +1,39 @@
+[
+  {
+    "ticketId": 100000,
+    "fullName": "asd",
+    "idNumber": "asd",
+    "creationDate": "30/01/2022",
+    "status": "asd",
+    "senderName": "asd",
+    "loanType": "asd"
+  },
+  {
+    "ticketId": 100000,
+    "fullName": "asd",
+    "idNumber": "asd",
+    "creationDate": "30/01/2022",
+    "status": "asd",
+    "senderName": "asd",
+    "loanType": "asd"
+  },
+  {
+    "ticketId": 100000,
+    "fullName": "asd",
+    "idNumber": "asd",
+    "creationDate": "30/01/2022",
+    "status": "asd",
+    "senderName": "asd",
+    "loanType": "asd"
+  },
+  {
+    "ticketId": 100000,
+    "fullName": "asd",
+    "idNumber": "asd",
+    "creationDate": "30/01/2022",
+    "status": "asd",
+    "senderName": "asd",
+    "loanType": "asd"
+  }
+  
+]
